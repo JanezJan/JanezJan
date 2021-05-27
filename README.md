@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JanezJan
+- 👀 I’m interested in raspberry pi
+- 🌱 I’m currently learning it
